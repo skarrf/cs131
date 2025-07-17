@@ -1,0 +1,14 @@
+{
+  "input_layer": {
+    "shape": "None"
+  },
+  "hidden_layer": {
+    "num_layers": 3,
+    "num_nodes": 2048,
+    "activation": "relu"
+  },
+  "output_layer": {
+    "size": 1,
+    "activation": "linear"
+  }
+}
